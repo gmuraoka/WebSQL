@@ -1,4 +1,4 @@
-# WebSQL
+# WebSQL Lite Editor
 _A Web-based tool to have SQL-like functions on your browser._
 
 This tool is intended to be executed on Google Chrome.
